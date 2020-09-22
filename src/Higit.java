@@ -1,5 +1,5 @@
 public class Higit {
     public static void main(String[] args) {
-        System.out.println("Higithub`1");
+        System.out.println("Higit");
     }
 }
